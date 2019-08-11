@@ -1,5 +1,5 @@
 import Bootloader from './Bootloader.js';
-import UI from './scenes/Ui.js';
+import UI from './scenes/UI.js';
 import Menu from './scenes/Menu.js';
 import Play from './scenes/Play.js';
 
